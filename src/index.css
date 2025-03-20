@@ -87,3 +87,8 @@ body {
 .center {
   text-align: center;
 }
+
+.margin-16
+{
+  margin-top: 16px;
+}
